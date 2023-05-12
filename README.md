@@ -5,4 +5,4 @@ The project uses opencv for dealing with image processing captured from camera a
 
 
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/khanhvovan2002/face-emotion-regconition_/blob/main/OKE.gif))
+![Alt Text](https://github.com/khanhvovan2002/face-emotion-regconition_/blob/main/OKE.gif)
