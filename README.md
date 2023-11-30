@@ -1,4 +1,4 @@
-# Face Emotion Recognition
+# Face Emotion Recognition using Oneshot Learning Strategy
 
 Face Emotion Recognition is a simple web application built with Flask for recognizing human faces and detecting their emotions. The project utilizes OpenCV for image processing, capturing frames from a camera, and haarcascade_frontalface_default to crop the coordinates of the detected faces.
 
